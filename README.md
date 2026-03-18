@@ -67,7 +67,7 @@ Step 15 : Implemented Bookmarks to toggle between visuals.
 
 Step 16 : Added Bookmark Navigator Buttons for smooth user interaction.
 
-![Snap_of_Navigator](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_of_Navigator](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/fb55050cd80051ef50bc264514a311c834f0bafb/bookmarknavigator.png)
 Step 17 : Designed and finalized dashboard layout.
 
 Step 18 : Published report to Power BI Service.
