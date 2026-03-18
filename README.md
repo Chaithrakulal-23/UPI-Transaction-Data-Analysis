@@ -72,8 +72,7 @@ Step 17 : Designed and finalized dashboard layout.
 
 Step 18 : Published report to Power BI Service.
  
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
-
+![Publish_Message](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/b6eb9edaca33bfb784284b12493c0427508b6859/ss.png)
  
  # Report Snapshot Page 1
 
