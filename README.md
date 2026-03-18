@@ -27,7 +27,7 @@ For creating new column following DAX expression was written;
         
 Snap of new Age Group column ,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_1](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/f031a716a8364a040e8a66b5ec0017c1cefd1589/agegrppic.png)
 
  Step 8 : Added slicers for the following fields:
 
@@ -48,7 +48,7 @@ Snap of new Age Group column ,
   - Purpose
 
   - Transaction Type
-  - 
+    
 ![Snap_of_Slicers](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 
 Step 9 : Synced slicers across both pages using Sync Slicers.
