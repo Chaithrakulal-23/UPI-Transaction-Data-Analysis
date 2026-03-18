@@ -63,7 +63,7 @@ Step 14 : Used Selection Pane to control visibility of visuals.
 
 Step 15 : Implemented Bookmarks to toggle between visuals.
 
-![Snap_of_Bookmarks](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_of_Bookmarks](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/2f676c87572a9f913168e82195970cc64c805d50/toggle.png)
 
 Step 16 : Added Bookmark Navigator Buttons for smooth user interaction.
 
