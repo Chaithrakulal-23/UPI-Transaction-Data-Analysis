@@ -83,7 +83,7 @@ Step 18 : Published report to Power BI Service.
 
 ![Dashboard_upload](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/d8486c94d044f704ef9e56f0f34846762b34ecdd/lcb.png)
 
-![Dashboard_upload](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/c2ac8872a7ffb1354d222a897fffcbb96ed28cbf/page1.png)
+![Dashboard_upload](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/a7f0760237a89c01473d3de5180a93bbbf02b1f5/ccb.png)
 
 # Report Snapshot Page 2
 
