@@ -49,7 +49,7 @@ Snap of new Age Group column ,
 
   - Transaction Type
     
-![Snap_of_Slicers](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_of_Slicers](https://github.com/Chaithrakulal-23/UPI-Transaction-Data-Analysis/blob/53b3ceccf409a567594aaba80d30705beb1a3da4/filters.png)
 
 Step 9 : Synced slicers across both pages using Sync Slicers.
 
